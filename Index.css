@@ -1,0 +1,28 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.colorTabla{
+
+    background-color: aquamarine;
+    border: 1px solid #000000;
+
+}
+
+td{
+
+    border: 1px solid #000000;
+    padding: 0.4rem;
+
+}
+
+#redimensionar{
+
+    background-color: azure;
+    width: 800px;
+    height: 70px;
+
+}
