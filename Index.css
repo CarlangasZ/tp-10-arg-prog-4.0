@@ -1,0 +1,60 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.colorTabla{
+
+    background-color: aquamarine;
+    border: 1px solid #000000;
+
+}
+
+td{
+
+    border: 1px solid #000000;
+    padding: 0.4rem;
+
+}
+
+#redimensionar{
+
+    background-color: azure;
+    width: 800px;
+    height: 70px;
+
+}
+
+/*EJERCICIO 14*/
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    margin-bottom: 30px;
+}
+
+/*EJERCICIO 17*/
+.Celda {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
+.Celda:hover {
+    background-color: yellow;
+}
+
+table {
+    
+    margin-bottom: 10px;
+
+}
+
+table.tabla {
+    border-collapse: collapse;
+    border-spacing: 30px;
+}
